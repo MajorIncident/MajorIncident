@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">Shane Chagpar — Building clarity into complex systems</title>
+<desc id="desc">Navy and teal editorial header for a digital solutions leader and hands-on builder.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07121F"/><stop offset="1" stop-color="#10283D"/></linearGradient>
+<linearGradient id="ink"><stop stop-color="#5AF0DA"/><stop offset="1" stop-color="#9EA8FF"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#D9EBFF" stroke-width=".5" opacity=".09" fill="none"/></pattern>
+<radialGradient id="halo"><stop stop-color="#24CBB6" stop-opacity=".25"/><stop offset="1" stop-color="#24CBB6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="380" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="380" fill="url(#grid)"/>
+<ellipse cx="1040" cy="175" rx="330" ry="270" fill="url(#halo)"/>
+<rect x="55" y="43" width="29" height="4" rx="2" fill="#5AF0DA"/>
+<text x="97" y="50" fill="#8DABC4" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2.6">PRODUCTS  /  AI  /  DECISION INTELLIGENCE</text>
+<text x="53" y="152" fill="#F4FAFF" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="700" letter-spacing="-1">Shane Chagpar</text>
+<text x="55" y="207" fill="url(#ink)" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="500">Building clarity into complex systems.</text>
+<text x="55" y="258" fill="#B2C6D8" font-family="Arial,Helvetica,sans-serif" font-size="19">Digital solutions leader. Hands-on builder. Lifelong problem solver.</text>
+<path d="M55 295H695" stroke="#90ACC6" stroke-opacity=".3"/>
+<text x="55" y="327" fill="#AFC5D7" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.6" font-weight="700">TORONTO, CANADA</text>
+<circle cx="268" cy="322" r="3" fill="#51E5CD"/>
+<text x="284" y="327" fill="#AFC5D7" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.1" font-weight="700">KEPNER-TREGOE</text>
+<g transform="translate(992 191)" fill="none">
+<circle r="159" stroke="#5CBFDF" stroke-opacity=".2"/><circle r="122" stroke="#72C4E8" stroke-opacity=".3" stroke-dasharray="3 7"/><circle r="81" stroke="#42CBBE" stroke-opacity=".45"/><circle r="44" stroke="#7DF0DF" stroke-opacity=".4"/>
+<path d="M-171 -104L-103 -56L-16 -89L69 -125L159 -46L126 68L42 123L-61 104L-154 30Z" stroke="#B5D6EC" stroke-opacity=".4"/>
+<path d="M-103 -56L-14 -3L69 -125M-14 -3L126 68M-14 -3L-61 104M-14 -3L-154 30M-16 -89L42 123" stroke="#66E3D0" stroke-opacity=".4"/>
+<path d="M-58 -55L-10 0L48 -45M-12 3L48 36" stroke="#74EBD9" stroke-width="3" stroke-linecap="round"/>
+<g fill="#6CC9F2" stroke="none"><circle cx="-103" cy="-56" r="5"/><circle cx="-16" cy="-89" r="4"/><circle cx="69" cy="-125" r="5"/><circle cx="159" cy="-46" r="4"/><circle cx="126" cy="68" r="5"/><circle cx="42" cy="123" r="4"/><circle cx="-61" cy="104" r="6"/><circle cx="-154" cy="30" r="4"/></g>
+<circle cx="-14" cy="-3" r="9" fill="#071B2B" stroke="#6EFFE3" stroke-width="3"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1" fill="#BFE8F1" text-anchor="middle">
+<rect x="1132" y="28" rx="10" width="101" height="33" fill="#11283B" stroke="#6DCBD7" stroke-opacity=".5"/><text x="1182" y="49">DESIGN</text>
+<rect x="1036" y="317" rx="10" width="144" height="34" fill="#11283B" stroke="#6DCBD7" stroke-opacity=".5"/><text x="1108" y="339">ENGINEERING</text>
+</g></svg>
