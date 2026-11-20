@@ -1,84 +1,44 @@
-<!--
-  SHANE CHAGPAR - GITHUB PROFILE
-  This README is meant for the public repository MajorIncident/MajorIncident.
-  It uses one self-hosted visual (banner.svg) plus optional static Shields badges.
--->
-
 <p align="center">
-  <img src="./banner.svg" alt="Shane Chagpar - building clarity into complex systems" width="100%" />
+  <a href="https://shanechagpar.com/"><img src="./banner.svg" alt="Shane Chagpar, AI and digital transformation leader, Toronto" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shanechagpar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://shanechagpar.com/"><img alt="Website: shanechagpar.com" src="https://img.shields.io/badge/Website-shanechagpar.com-B9EDD7?style=for-the-badge&amp;labelColor=0B171E" /></a>
   &nbsp;
-  <a href="https://kepner-tregoe.com/"><img alt="Kepner-Tregoe" src="https://img.shields.io/badge/Kepner--Tregoe-Digital_Solutions-17324C?style=for-the-badge" /></a>
-  &nbsp;
-  <a href="https://sucre.to/"><img alt="Sucré Toronto" src="https://img.shields.io/badge/Sucr%C3%A9-Creative_Lab-247E87?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shanechagpar/"><img alt="LinkedIn: message me" src="https://img.shields.io/badge/LinkedIn-Message_me-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 </p>
 
-### Hi, I'm Shane.
+I'm Shane Chagpar, an AI and digital transformation leader in Toronto, and Head of Digital Solutions & Diagnostics (Global) at [Kepner-Tregoe](https://kepner-tregoe.com/).
 
-I lead **Digital Solutions & Diagnostics at [Kepner-Tregoe](https://kepner-tregoe.com/)**, where I work at the intersection of **AI-enabled transformation, digital product development, and structured problem solving**.
+I help large organizations find the real problem before they automate it, and I build the AI tools that help them fix it.
 
-My work connects strategy to execution: finding the real problem, designing something people want to use, and building the systems to make it work in practice. I'm equally at home leading an enterprise transformation, mapping a complex incident, or getting into the code.
+I started my first business at 13 and still write code. Off the clock, I cook, bake and photograph food.
 
-> **The thread that connects it all:** better systems should make it easier for people to think clearly, act confidently, and deliver meaningful results.
+### Software I've built
 
----
+Public tools, mostly for incident and problem analysis, plus the private systems behind the cake studio I co-founded. I wrote all of them, including those that carry Kepner-Tregoe's initials.
 
-### Selected work
+- **[Incident Mapping](https://github.com/MajorIncident/incidentmapping):** an evidence-first visual workspace for working out what caused an incident: a defensible causal story, not just a timeline. I introduced it at itSMF Australia in 2017 and still develop it.
+- **[KT Intake](https://github.com/MajorIncident/Intake):** a browser-based workspace for structured incident analysis, facilitation and learning.
+- **[ServiceNow apps](https://github.com/MajorIncident/KT-ServiceNow):** applications for structured incident, problem and case analysis inside ServiceNow.
+- **[Meeting Cost Timer](https://github.com/MajorIncident/meetingtimer):** an experiment in making the cost of a meeting visible while it runs.
+- **Sucré's studio systems (private):** every cake is made to order, yet clients expect a quote right away. I designed and built the studio's systems: cake visualization, pricing, dashboards, faster quoting and AI-assisted intake from the channels clients use.
 
-**[01 / Incident Mapping](https://github.com/MajorIncident/incidentmapping)**  
-A visual, evidence-first workspace for building an incident's causal story: events, contributing factors, controls, actions, and supporting evidence. Designed to keep chronology and causality distinct.
+Built with TypeScript, JavaScript, Python, React, Next.js, Docker, GitHub Actions, WordPress, n8n and ServiceNow. [All public repositories](https://github.com/MajorIncident?tab=repositories).
 
-**[02 / KT Intake](https://github.com/MajorIncident/Intake)**  
-A browser-first incident-analysis workspace for structured facilitation, AI-assisted summaries, resilient local saves, and optional collaboration.
+### Track record
 
-**[03 / KT ServiceNow Applications](https://github.com/MajorIncident/KT-ServiceNow)**  
-Enterprise applications supporting incident management, problem management, and case analysis through more structured diagnosis and resolution.
+- Primary author of Kepner-Tregoe's [Major Incident Management program](https://kepner-tregoe.com/training/major-incident-management/) (2010); I led its 2026 refresh.
+- Spoke at itSMF Australia every year from 2016 to 2019; National Best Speaker in 2018 and 2019.
+- 28+ years across technology, teaching and consulting.
+- 30+ Fortune 100 organizations served through Kepner-Tregoe.
+- [Nine anonymized team results, with their scope](https://shanechagpar.com/work/).
+- LinkedIn Learning courses: [IT Service Management Foundations: Problem Management](https://www.linkedin.com/learning/it-service-management-foundations-problem-management) and [ServiceNow: Basic Administration](https://www.linkedin.com/learning/servicenow-basic-administration-25085067).
 
-**[04 / Sucré Digital Studio](https://sucre.to/)**  
-A real-world product lab hidden inside a Toronto custom-cake atelier. I use AI-assisted intake, workflow automation, pricing logic, and digital experience design to connect craftsmanship with thoughtful technology. *The studio's production systems are private.*
+### Still opening the case
 
----
-
-### What I work on
-
-- **Intelligent workflows:** useful AI, agent-assisted processes, human oversight, and pragmatic automation.
-- **Product and experience design:** turning complicated requirements into approachable, intuitive tools.
-- **Operational problem solving:** incident analysis, root-cause reasoning, decision support, and service reliability.
-- **Engineering that holds up:** testing, documentation, safe releases, and maintainable systems.
-
-**Tools I reach for**
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-15263B?style=flat-square&amp;logo=typescript&amp;logoColor=7EB8FF" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-15263B?style=flat-square&amp;logo=javascript&amp;logoColor=F2D95C" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-15263B?style=flat-square&amp;logo=python&amp;logoColor=86D6E5" />
-  <img alt="React" src="https://img.shields.io/badge/React-15263B?style=flat-square&amp;logo=react&amp;logoColor=77D9EB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-15263B?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-15263B?style=flat-square&amp;logo=docker&amp;logoColor=68B9FA" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-15263B?style=flat-square&amp;logo=githubactions&amp;logoColor=A6C7FF" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-15263B?style=flat-square&amp;logo=n8n&amp;logoColor=F5A4BD" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-15263B?style=flat-square&amp;logo=wordpress&amp;logoColor=99D0F8" />
-  <img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-15263B?style=flat-square&amp;logo=servicenow&amp;logoColor=8ED3BB" />
-</p>
-
----
-
-### Sharing what I learn
-
-I also teach and speak about making complex technology challenges easier to understand. Some of that work is available through **LinkedIn Learning**:
-
-- [IT Service Management Foundations: Problem Management](https://www.linkedin.com/learning/it-service-management-foundations-problem-management)
-- [ServiceNow: Basic Administration](https://www.linkedin.com/learning/servicenow-basic-administration-25085067)
-
-My background spans enterprise IT, service management, transformation, product leadership, and hands-on engineering. I've also been fortunate to receive **two national Best Speaker awards** at itSMF Australia's 2018 and 2019 conferences.
-
-### Beyond the keyboard
-
-I care about the experience behind the system. That extends all the way from enterprise products to the cake studio I co-run, where small details, demanding constraints, and good design really do matter.
+I started [Chagpar Consulting](https://www.chagpar.com/) at 13, repairing computers and building early websites. Through Chagpar Consulting I also take on software and technical projects that don't overlap with Kepner-Tregoe's work. I founded or advise a few other small businesses, each independent of Kepner-Tregoe; [my website lists them, with my roles](https://shanechagpar.com/#sc-life).
 
 <p align="center">
-  <sub>Based in Toronto, Canada &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/shanechagpar/">Connect on LinkedIn</a> &nbsp; | &nbsp; <a href="https://github.com/MajorIncident?tab=repositories">Explore my repositories</a></sub>
+  <sub>Toronto, Canada &nbsp; · &nbsp; <a href="https://shanechagpar.com/">shanechagpar.com</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/shanechagpar/">LinkedIn</a> &nbsp; · &nbsp; <a href="https://github.com/MajorIncident?tab=repositories">Public code</a></sub>
 </p>
