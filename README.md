@@ -16,12 +16,12 @@ I started my first business at 13 and still write code. Off the clock, I cook, b
 
 ### Software I've built
 
-Public tools, mostly for incident and problem analysis, plus the private systems behind the cake studio I co-founded. I wrote all of them, including those that carry Kepner-Tregoe's initials.
+Public tools, mostly for incident and problem analysis, plus two private projects: a Kepner-Tregoe incident workbook and the systems behind the cake studio I co-founded. I wrote all of them, including those that carry Kepner-Tregoe's initials.
 
 - **[Incident Mapping](https://github.com/MajorIncident/incidentmapping):** an evidence-first visual workspace for working out what caused an incident: a defensible causal story, not just a timeline. I introduced it at itSMF Australia in 2017 and still develop it.
-- **[KT Intake](https://github.com/MajorIncident/Intake):** a browser-based workspace for structured incident analysis, facilitation and learning.
 - **[ServiceNow apps](https://github.com/MajorIncident/KT-ServiceNow):** applications for structured incident, problem and case analysis inside ServiceNow.
 - **[Meeting Cost Timer](https://github.com/MajorIncident/meetingtimer):** an experiment in making the cost of a meeting visible while it runs.
+- **KT Intake (private):** a browser-based Kepner-Tregoe incident workbook with a major-incident role guide and a classroom for case practice. I designed and built it, and I lead it end to end, with AI coding agents. It's in pre-production testing.
 - **Sucré's studio systems (private):** every cake is made to order, yet clients expect a quote right away. I designed and built the studio's systems: cake visualization, pricing, dashboards, faster quoting and AI-assisted intake from the channels clients use.
 
 Built with TypeScript, JavaScript, Python, React, Next.js, Docker, GitHub Actions, WordPress, n8n and ServiceNow. [All public repositories](https://github.com/MajorIncident?tab=repositories).
