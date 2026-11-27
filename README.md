@@ -33,7 +33,7 @@ Built with TypeScript, JavaScript, Python, React, Next.js, Docker, GitHub Action
 - 28+ years across technology, teaching and consulting.
 - 30+ Fortune 100 organizations served through Kepner-Tregoe.
 - [Nine anonymized team results, with their scope](https://shanechagpar.com/work/).
-- LinkedIn Learning courses: [IT Service Management Foundations: Problem Management](https://www.linkedin.com/learning/it-service-management-foundations-problem-management) and [ServiceNow: Basic Administration](https://www.linkedin.com/learning/servicenow-basic-administration-25085067).
+- 160,000+ learners across my LinkedIn Learning courses. They include [IT Service Management Foundations: Problem Management](https://www.linkedin.com/learning/it-service-management-foundations-problem-management) (one of four courses in LinkedIn Learning's Atlassian ITSM Professional Certificate) and [ServiceNow: Basic Administration](https://www.linkedin.com/learning/servicenow-basic-administration-25085067).
 
 ### Still opening the case
 
